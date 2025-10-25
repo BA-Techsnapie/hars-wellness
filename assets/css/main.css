@@ -6467,9 +6467,9 @@ section,
   .wa-arc {
     position: absolute;
     left: 50%;
-    top: -10px;               /* controls gap above the button */
-    width: 110px;             /* overall width of the arc */
-    height: 70px;             /* overall height of the arc */
+    top: -18px;               /* controls gap above the button */
+    width: 103px;             /* overall width of the arc */
+    height: 90px;             /* overall height of the arc */
     transform: translateX(-50%);
     pointer-events: none;     /* let clicks go to the button */
   }
@@ -6491,7 +6491,7 @@ section,
 
   /* Dark backgrounds: add a text halo for readability */
   .wa-arc text {
-    font: 700 14px/1 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    font: 700 15px/1 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
     letter-spacing: .08em;
     text-transform: uppercase;
     paint-order: stroke;
