@@ -6498,3 +6498,9 @@ section,
     stroke: rgba(0,0,0,.45);  /* subtle outline */
     stroke-width: 3px;
   }
+  .tmng{
+    border: 1px solid #628038;
+      padding: 10px 20px;
+      border-radius: 10px;
+      margin: auto;
+  }
